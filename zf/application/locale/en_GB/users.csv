@@ -1,0 +1,44 @@
+﻿
+Users_Module;Users
+Users_Users;Users
+Users_ID;ID
+Users_Allow;Allow
+Users_Deny;Deny
+Users_Page;Page
+Users_Displaying;Displaying
+Users_Of;of
+Users_De_Select;Deselect Rows
+Users_Refresh;Refresh
+Users_Rolename;Username
+Users_Roleinherit;Email
+Users_Module_;Module
+Users_Controller;Date of Birth
+Users_Action;Action
+Users_Access;Access
+Users_Update;Update
+Users_Cancel;Cancel
+Users_Items;Items
+Users_Item;Item
+Users_New_User_Created;New user created
+Users_Fullname;Fullame
+Users_Username;Username
+Users_Role;Role
+Users_Email;Email
+Users_Company;Company
+Users_Change_Password;Change Pasword
+Users_Delete;Delete
+Users_Edit_User;Edit User
+Users_New_User;New User
+Users_Firstname;Firstname
+Users_Lastname;Lastname
+Users_Password;Password
+Users_Verify;Verify
+Users_Userrole;Role
+Users_Generate;Generate
+Users_Submit;Submit
+Users_Close;Cancel
+Users_New_User_Edited;User edited
+Users_Success;Success
+Users_Sending;Subminting data...
+Users_De_Select_Tooltip;Deselect row...
+Users_Refresh_Tooltip;Refresh...

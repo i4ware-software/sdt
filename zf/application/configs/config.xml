@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<configdata>
+    <production>
+        <webhost>sdt.domain1.com</webhost>
+		<layout>default</layout>
+		<locale>en_GB</locale>
+        <language>en</language>
+		<timezone>Europe/Helsinki</timezone>
+		<dateformat>dd.MM.yyyy</dateformat>
+		<datetimeformat>dd.MM.yyyy HH:mm:ss</datetimeformat>
+		<mcrypt>GmGhFgmE4f</mcrypt>
+		<salt>Gh4GGd62GHHk</salt>
+        <publicsingup>false</publicsingup>
+		<languaceselector>false</languaceselector>
+        <portal>i4ware - SDT</portal>
+		<mail>
+		   <frommail>info@domain1.com</frommail>
+		</mail>
+        <database>
+            <adapter>pdo_mysql</adapter>
+            <params>
+                <host>localhost</host>
+                <username>i4ware_sdt</username>
+                <password>password</password>
+                <dbname>i4ware_sdt</dbname>
+            </params>
+        </database>
+    </production>
+    <staging extends="production">
+        <webhost>sdt.domain1.com</webhost>
+		<layout>default</layout>
+		<locale>fi_FI</locale>
+        <language>fi</language>
+		<timezone>Europe/Helsinki</timezone>
+		<dateformat>dd.MM.yyyy</dateformat>
+		<datetimeformat>dd.MM.yyyy HH:mm:ss</datetimeformat>
+		<mcrypt>GmGhFgmE4f</mcrypt>
+		<salt>Gh4GGd62GHHk</salt>
+        <publicsingup>false</publicsingup>
+		<languaceselector>false</languaceselector>
+        <portal>i4ware - SDT</portal>
+		<mail>
+		   <frommail>info@domain1.com</frommail>
+		</mail>
+        <database>
+            <adapter>pdo_mysql</adapter>
+            <params>
+                <host>localhost</host>
+                <username></username>
+                <password></password>
+                <dbname></dbname>
+            </params>
+        </database>
+    </staging>
+</configdata>

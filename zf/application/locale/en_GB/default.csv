@@ -1,0 +1,47 @@
+﻿
+Default_Login;Login
+Default_Login_Form;Login Form
+Default_Username;Username
+Default_Password;Password
+Default_Menu;Menu
+Default_Logout;Logout
+Default_Logout_Tooltip;Logout by pressing this button
+Default_My_Account;My Account
+Default_Application;Welcome
+Default_Applications;Applications
+Default_Firstname;Firstname
+Default_Lastname;Lastname
+Default_Email;Email
+Default_Date_of_Birth;Date of Birth
+Default_Save;Save
+Default_Sign;Sign Up
+Default_Load;Load
+Default_Saving;Saving...
+Default_Loading;Loading...
+Default_Generate;Generate
+Default_Old_Password;Old Password
+Default_New_Password;New Password
+Default_Verify;Verify
+Default_Company;Company
+Default_Copy_Paste;Copy/Paste
+Default_Change;Change
+Default_Loading;Loading
+Default_My_Contact_Info;Contact Information
+Default_Change_Password;Change Password
+Default_Generate_Password;Generate Password
+Default_Denied;You do not have the required privileges!
+Default_Warning;Warning
+Default_Change_Warning;Old password is incorrect or verify failed!
+Default_Identify_Failed;Identify Failed!
+Default_Identify_Failed_Msg;Password or username is incorrect!
+Default_Close;Close
+Default_Error;Error
+Default_Date_of_Birth;Date of Birth
+Default_Firstname;Firstname
+Default_Lastname;Lastname
+Default_Confirm_Password;Confirm Password
+Default_Email;Email
+Default_Company;Company
+Default_Account_Save_Success;Account Details saved to databese
+Default_Success;Success
+Default_Change_Success;Password Changed

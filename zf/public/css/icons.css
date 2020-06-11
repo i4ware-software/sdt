@@ -1,0 +1,28 @@
+.add-icon {
+background-image:url(/zf/public/images/icons/add.gif) !important;
+}
+
+.about-icon {
+background-image:url(/zf/public/images/icons/book.png) !important;
+}
+
+.option-icon {
+background-image:url(/zf/public/images/icons/plugin.gif) !important;
+}
+.refresh-icon {
+background-image:url(/zf/public/images/icons/table_refresh.png) !important;
+}
+.remove-icon {
+background-image:url(/zf/public/images/icons/delete.gif) !important;
+}
+.icon-zoom {
+background-image: url(/zf/public/images/icons/zoom.png) !important;
+}
+.icon-door-out {
+background-image: url(/zf/public/images/icons/door_out.png) !important;
+}
+
+.calendar-delete-icon {
+background-image: url(/zf/public/images/icons/calendar_delete.png) !important;
+}
+

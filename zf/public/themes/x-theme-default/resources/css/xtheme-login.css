@@ -1,0 +1,114 @@
+body {
+    background-color: #345;
+    overflow: hidden;
+}
+
+#login-window {
+	border: 1px dashed #f00;
+	padding: 5px;
+}
+
+#login-window .x-window-header {
+	color: #fff;
+	padding-bottom: 2px;
+	padding-top: 3px;
+	padding-left: 4px;
+}
+
+#login-window .x-window-header-text {
+	line-height: 21px;;
+}
+
+#login-window .x-window-tr {
+	background: transparent
+		url(../images/window/right-corners.png)
+		no-repeat right 0;
+	padding-right: 6px;
+}
+
+#login-window .x-window-tl {
+	background: transparent
+		url(../images/window/left-corners.png)
+		no-repeat left 0;
+	padding-top: 0px;
+	zoom: 1;
+}
+
+#login-window .x-window-tc {
+	background: transparent
+		url(../images/window/top-bottom.png)
+		repeat-x 0 0;
+	overflow: hidden;
+	zoom: 1;
+}
+
+#login-window .x-window-bl {
+	background: transparent
+		url(../images/window/left-corners.png)
+		no-repeat 0 bottom;
+	padding-left: 6px;
+	zoom: 1;
+}
+
+#login-window .x-window-br {
+	background: transparent
+		url(../images/window/right-corners.png)
+		no-repeat right bottom;
+	padding-right: 6px;
+	zoom: 1;
+}
+
+#login-window .x-window-bc {
+	background: transparent
+		url(../images/window/top-bottom.png)
+		repeat-x 0 bottom;
+	zoom: 1;
+}
+
+#login-window .x-window-ml {
+	background: transparent
+		url(../images/window/left-right.png)
+		repeat-y 0 0;
+	padding-left: 6px;
+	zoom: 1;
+}
+
+#login-window .x-window-mr {
+	background: transparent
+		url(../images/window/left-right.png)
+		repeat-y right 0;
+	padding-right: 6px;
+	zoom: 1;
+}
+
+#login-window .x-window-mc {
+	background: #fff none;
+	border: 2px solid #eee;
+}
+
+#login-logo .x-plain-body {
+	background: #f9f9f9 url(../images/logo.jpg) no-repeat center center;
+}
+
+#login-form .x-plain-body {
+	background: #f9f9f9 none;
+	color: #222;
+	padding: 5px 35px;
+	border-top: 2px #888 solid;
+}
+
+#login-window .x-window-body {
+	background: #FFFFFF none repeat scroll 0%;
+	border: 1px solid #000;
+}
+
+.x-panel-tl .x-panel-icon,.x-window-tl .x-panel-icon {
+	background-position: 0 4px;
+}
+
+.x-footer {
+	position: absolute;
+	color: #fff;
+	left: 50%;
+	bottom: 10px;
+}

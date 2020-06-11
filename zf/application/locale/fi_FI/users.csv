@@ -1,0 +1,43 @@
+﻿
+Users_Module;Käyttäjät
+Users_Users;Käyttäjät
+Users_ID;ID
+Users_Allow;Salli
+Users_Deny;Estä
+Users_Page;Sivu
+Users_Displaying;Näyttää
+Users_Of;/
+Users_De_Select;Poista rivi valinta
+Users_Refresh;Udelleen lataa
+Users_Rolename;Rooli
+Users_Roleinherit;Perii roolin
+Users_Controller;Konrolleri
+Users_Action;Toiminto
+Users_Access;Pääsy
+Users_Update;Päivitä
+Users_Cancel;Peruuta
+Users_Items;Tuotteet
+Users_Item;Tuote
+Users_New_User_Created;Uusi käyttäjä luotu
+Users_Fullname;Kokonimi
+Users_Username;Käyttäjätunnus
+Users_Role;Rooli
+Users_Email;Sähköposti
+Users_Company;Yritys/yhteisö
+Users_Change_Password;Vaihda salasana
+Users_Delete;Poista
+Users_Edit_User;Muokkaa käyttäjää
+Users_New_User;Uusi käyttäjä
+Users_Firstname;Etunimi
+Users_Lastname;Sukunimi
+Users_Password;Salasana
+Users_Verify;Varmista
+Users_Userrole;Rooli
+Users_Generate;Generoi
+Users_Submit;Tallenna
+Users_Close;Peruuta
+Users_New_User_Edited;Käyttäjän tiedot tallennettu tietokantaan
+Users_Success;Onnistui
+Users_Sending;Tallentaa..
+Users_De_Select_Tooltip;Poista rivin vallinnat tästä napista...
+Users_Refresh_Tooltip;Lataa käyttäjät uudestaan tästä napista...

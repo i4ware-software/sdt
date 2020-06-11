@@ -1,0 +1,41 @@
+﻿
+Default_Login;Kirjaudu
+Default_Login_Form;Kirjautumislomake
+Default_Username;Käyttäjätunnus
+Default_Password;Salasana
+Default_Menu;Menu
+Default_Logout;Kirjaudu ulos
+Default_Logout_Tooltip;Kirjaudu ulos tästä napista
+Default_My_Account;Minun Tili
+Default_Application;Tervetuloa
+Default_Applications;Ohjelmistot
+Default_Firstname;Etunimi
+Default_Lastname;Sukunimi
+Default_Email;Sähköposti
+Default_Date_of_Birth;Syntymäaika
+Default_Save;Tallenna
+Default_Sign;Registröidy
+Default_Load;Lataa
+Default_Saving;Tallentaa..
+Default_Loading;Lataa...
+Default_Generate;Ganeroi
+Default_Old_Password;Vanha salasana
+Default_New_Password;Uusi salasana
+Default_Verify;Varmista
+Default_Company;Yritys/yhteisö
+Default_Copy_Paste;Kopioi ja liitä
+Default_Change;Vaihda
+Default_My_Contact_Info;Yhteystiedot
+Default_Change_Password;Vaihda salasana
+Default_Generate_Password;Ganeroi salasana
+Default_Denied;Sinulla ei ole oikeuksia nähdä tätä aluetta!
+Default_Warning;Varoitus
+Default_Change_Warning;Vanha salasana on väärä tai varmistus epäonnistui!
+Default_Identify_Failed;Identifionti epäonnistui!
+Default_Identify_Failed_Msg;Salasana tai käyttäjätunus on väärä!
+Default_Close;Sulje
+Default_Error;Virhe
+Default_Confirm_Password;Aseta salasana
+Default_Account_Save_Success;Tilisi tiedot on tallennettu tietokantaan!
+Default_Success;Onnistui
+Default_Change_Success;Salasana vaihdettu
