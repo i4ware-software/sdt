@@ -69,11 +69,11 @@ class MyAuthAdapter implements Zend_Auth_Adapter_Interface
 		if ($adapter->authenticate()->isValid()) {
 		$authNamespace = new Zend_Session_Namespace('Zend_Auth');
 		$authNamespace->user = $this->_username;
-		return new Zend_Auth_Result(Zend_Auth_Result::SUCCESS);		
+		return new Zend_Auth_Result(Zend_Auth_Result::SUCCESS, $adapter->authenticate()->getIdentity());		
 		} else {
-		return new Zend_Auth_Result(Zend_Auth_Result::FAILURE);
+		return new Zend_Auth_Result(Zend_Auth_Result::FAILURE, null);
 		}	
-		return new Zend_Auth_Result(Zend_Auth_Result::FAILURE);
+		return new Zend_Auth_Result(Zend_Auth_Result::FAILURE, null);
 				
     }
 }

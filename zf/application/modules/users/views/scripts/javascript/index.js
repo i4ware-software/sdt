@@ -595,15 +595,15 @@ var newuserform = new Ext.FormPanel( {
 		hiddenName: 'userrole',
         allowBlank : false,
 		xtype:'combo',
-		value:'2',
+		value:'3',
 		store: new Ext.data.SimpleStore({
                                 fields: ['id','value'],
                                 data:[
-								["2","Employee"],
-								["3","Admin"]<?php
+								["3","Employee"],
+								["6","Admin"]<?php
 							            if ($this->addsuperadmin) {
 							                ?>,
-								["4","Superadmin"]<?php } ?>
+								["7","Superadmin"]<?php } ?>
 								]
                             }),
                             displayField: 'value',
@@ -797,11 +797,11 @@ var edituserform = new Ext.FormPanel( {
 		store: new Ext.data.SimpleStore({
                                 fields: ['id','value'],
                                 data:[
-								["2","Employee"],
-								["3","Admin"]<?php
+								["3","Employee"],
+								["6","Admin"]<?php
 							            if ($this->addsuperadmin) {
 							                ?>,
-								["4","Superadmin"]<?php } ?>
+								["7","Superadmin"]<?php } ?>
 								]
                             }),
                             displayField: 'value',
@@ -1120,7 +1120,7 @@ var grid = new Ext.grid.GridPanel({
                     forceFit:true, 
                     autoScroll:true                  
                       },
-                                  selModel: new Ext.grid.RowSelectionModel({singleSelect:false}),
+                                  selModel: new Ext.grid.RowSelectionModel({singleSelect:true}),
 								  clicksToEdit: 2,
 								  bbar: new Ext.PagingToolbar({
 															  store: store,
