@@ -181,7 +181,7 @@ class JavascriptController extends Zend_Controller_Action
         $this->view->changepassword = $translate->_("Default_Change_Password");
 		$this->view->generatepassword = $translate->_("Default_Generate_Password");
 		$this->view->warning = $translate->_("Default_Warning");
-		$this->view->date = $date->DATES;
+		$this->view->date = $date->get();
 		$this->view->ext_date_format = $translate->_("Ext_Date_Format");
 		$this->view->version = Core::version();
 		$this->view->html_user = $html_user;
